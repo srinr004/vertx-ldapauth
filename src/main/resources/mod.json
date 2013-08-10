@@ -1,0 +1,13 @@
+{
+
+  "main":"com.github.jwagenleitner.vertx.ldapauth.LdapAuth",
+  "worker": true,
+
+  "description":"LDAP Authentication module for Vert.x",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "John Wagenleitner",
+
+  // Optional fields
+  "keywords": ["security", "authentication", "ldap", "login"],
+  "homepage": "https://github.com/jwagenleitner/vertx-ldapauth"
+}
